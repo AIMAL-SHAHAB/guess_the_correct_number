@@ -44,10 +44,5 @@ int main() {
            printf("Out of tries! The correct number was %d\n", random_num);
         }
     }while ( ate!=max_num);
-   
-    
-     
-     
-        
     return 0;
 }
